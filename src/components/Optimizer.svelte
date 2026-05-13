@@ -26,7 +26,7 @@ let availableRecipes = $derived(
     const unlockedByBuilding =
       enabledBuildings[data.recipeBuildings[recipe]] ?? false
     return unlockedByLevel && unlockedByBuilding
-  }),
+  })
 )
 
 let availableRecipeRewards = $derived.by(() => {
