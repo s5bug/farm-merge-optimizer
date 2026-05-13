@@ -7,11 +7,21 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "biome check && astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "fmt": "biome check --write"
   },
   "dependencies": {
-    "astro": "^6.3.1"
+    "@astrojs/check": "^0.9.9",
+    "@astrojs/svelte": "^8.1.0",
+    "astro": "^6.3.1",
+    "javascript-lp-solver": "^1.0.3",
+    "svelte": "^5.55.5",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.15",
+    "@types/node": "^25.7.0"
   }
 }

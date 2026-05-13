@@ -1,0 +1,1210 @@
+{
+  "recipe_apple_cider": {
+    "ID": "recipe_apple_cider",
+    "image": {
+      "alias": "icon_recipes_applecider"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "apple",
+        "amount": 8
+      },
+      {
+        "key": "sugarcane",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_apple_cinnamon_cookies": {
+    "ID": "recipe_apple_cinnamon_cookies",
+    "image": {
+      "alias": "icon_recipes_applecinnamoncookies"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "apple",
+        "amount": 6
+      },
+      {
+        "key": "wheat",
+        "amount": 5
+      },
+      {
+        "key": "sugarcane",
+        "amount": 4
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_apple_compote": {
+    "ID": "recipe_apple_compote",
+    "image": {
+      "alias": "icon_recipes_applecompote"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "apple",
+        "amount": 10
+      },
+      {
+        "key": "sugarcane",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_apple_pie": {
+    "ID": "recipe_apple_pie",
+    "image": {
+      "alias": "icon_recipes_applepie"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "apple",
+        "amount": 12
+      },
+      {
+        "key": "wheat",
+        "amount": 7
+      },
+      {
+        "key": "sugarcane",
+        "amount": 6
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_avocado_egg_burger": {
+    "ID": "recipe_avocado_egg_burger",
+    "image": {
+      "alias": "icon_recipes_avocadoeggburger"
+    },
+    "duration": 720,
+    "ingredients": [
+      {
+        "key": "avocado",
+        "amount": 11
+      },
+      {
+        "key": "egg",
+        "amount": 7
+      },
+      {
+        "key": "wheat",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_avocado_on_toast": {
+    "ID": "recipe_avocado_on_toast",
+    "image": {
+      "alias": "icon_recipes_avocadoontoast"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "avocado",
+        "amount": 12
+      },
+      {
+        "key": "bacon",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_avocado_taco": {
+    "ID": "recipe_avocado_taco",
+    "image": {
+      "alias": "icon_recipes_avocadotaco"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "avocado",
+        "amount": 10
+      },
+      {
+        "key": "tomato",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_avocado_wrap": {
+    "ID": "recipe_avocado_wrap",
+    "image": {
+      "alias": "icon_recipes_avocadowrap"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "avocado",
+        "amount": 12
+      },
+      {
+        "key": "corn",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_bee_wax_candles": {
+    "ID": "recipe_bee_wax_candles",
+    "image": {
+      "alias": "icon_recipes_beewaxcandles"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "honey",
+        "amount": 8
+      },
+      {
+        "key": "wheat",
+        "amount": 8
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_bread": {
+    "ID": "recipe_bread",
+    "image": {
+      "alias": "icon_recipes_bread"
+    },
+    "duration": 180,
+    "ingredients": [
+      {
+        "key": "wheat",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_2", "coin_2"]
+  },
+  "recipe_butter": {
+    "ID": "recipe_butter",
+    "image": {
+      "alias": "icon_recipes_butter"
+    },
+    "duration": 420,
+    "ingredients": [
+      {
+        "key": "milk",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_candy_apples": {
+    "ID": "recipe_candy_apples",
+    "image": {
+      "alias": "icon_recipes_candyapples"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "apple",
+        "amount": 8
+      },
+      {
+        "key": "sugarcane",
+        "amount": 8
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_cappuccino": {
+    "ID": "recipe_cappuccino",
+    "image": {
+      "alias": "icon_recipes_cappuccino"
+    },
+    "duration": 420,
+    "ingredients": [
+      {
+        "key": "coffeebeans",
+        "amount": 15
+      },
+      {
+        "key": "milk",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_carrot_bread": {
+    "ID": "recipe_carrot_bread",
+    "image": {
+      "alias": "icon_recipes_carrotbread"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "carrot",
+        "amount": 8
+      },
+      {
+        "key": "wheat",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_carrot_cake": {
+    "ID": "recipe_carrot_cake",
+    "image": {
+      "alias": "icon_recipes_carrotcake"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "carrot",
+        "amount": 12
+      },
+      {
+        "key": "wheat",
+        "amount": 7
+      },
+      {
+        "key": "egg",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_carrots": {
+    "ID": "recipe_carrots",
+    "image": {
+      "alias": "icon_recipes_carrots"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "carrot",
+        "amount": 6
+      }
+    ],
+    "reward": ["coin_2", "coin_2"]
+  },
+  "recipe_cheese": {
+    "ID": "recipe_cheese",
+    "image": {
+      "alias": "icon_recipes_cheese"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "milk",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_3"]
+  },
+  "recipe_cheese_popcorn": {
+    "ID": "recipe_cheese_popcorn",
+    "image": {
+      "alias": "icon_recipes_cheesepopcorn"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "corn",
+        "amount": 13
+      },
+      {
+        "key": "sunflower",
+        "amount": 9
+      },
+      {
+        "key": "milk",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_chulloh": {
+    "ID": "recipe_chulloh",
+    "image": {
+      "alias": "icon_recipes_chullohat"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "alpacawool",
+        "amount": 8
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_coffee_beans": {
+    "ID": "recipe_coffee_beans",
+    "image": {
+      "alias": "icon_recipes_coffeebag"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "coffeebeans",
+        "amount": 20
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_corn": {
+    "ID": "recipe_corn",
+    "image": {
+      "alias": "icon_recipes_corn"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "corn",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_2", "coin_2"]
+  },
+  "recipe_cowboy_boots": {
+    "ID": "recipe_cowboy_boots",
+    "image": {
+      "alias": "icon_recipes_cowboyboots"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "horseshoe",
+        "amount": 12
+      },
+      {
+        "key": "wool",
+        "amount": 7
+      },
+      {
+        "key": "fur",
+        "amount": 6
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_eggs": {
+    "ID": "recipe_eggs",
+    "image": {
+      "alias": "icon_recipes_eggs"
+    },
+    "duration": 60,
+    "ingredients": [
+      {
+        "key": "egg",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_1", "coin_1"]
+  },
+  "recipe_espresso": {
+    "ID": "recipe_espresso",
+    "image": {
+      "alias": "icon_recipes_espresso"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "coffeebeans",
+        "amount": 15
+      },
+      {
+        "key": "sugarcane",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_fabrics": {
+    "ID": "recipe_fabrics",
+    "image": {
+      "alias": "icon_recipes_fabrics"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "alpacawool",
+        "amount": 6
+      },
+      {
+        "key": "wool",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_flour": {
+    "ID": "recipe_flour",
+    "image": {
+      "alias": "icon_recipes_flour"
+    },
+    "duration": 30,
+    "ingredients": [
+      {
+        "key": "wheat",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_1"]
+  },
+  "recipe_fur_purse": {
+    "ID": "recipe_fur_purse",
+    "image": {
+      "alias": "icon_recipes_bag_deer"
+    },
+    "duration": 1800,
+    "ingredients": [
+      {
+        "key": "fur",
+        "amount": 60
+      }
+    ],
+    "reward": ["coin_5", "coin_5"]
+  },
+  "recipe_goat_cheese": {
+    "ID": "recipe_goat_cheese",
+    "image": {
+      "alias": "icon_recipes_goatcheese"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "goatmilk",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_3"]
+  },
+  "recipe_goat_milk": {
+    "ID": "recipe_goat_milk",
+    "image": {
+      "alias": "icon_recipes_goatsmilk"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "goatmilk",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_2", "coin_2"]
+  },
+  "recipe_goat_yoghurt": {
+    "ID": "recipe_goat_yoghurt",
+    "image": {
+      "alias": "icon_recipes_goatyoghurt"
+    },
+    "duration": 720,
+    "ingredients": [
+      {
+        "key": "goatmilk",
+        "amount": 11
+      },
+      {
+        "key": "sugarcane",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_grilled_bacon": {
+    "ID": "recipe_grilled_bacon",
+    "image": {
+      "alias": "icon_recipes_grilledbacon"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "bacon",
+        "amount": 12
+      },
+      {
+        "key": "sunflower",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_grilled_corn": {
+    "ID": "recipe_grilled_corn",
+    "image": {
+      "alias": "icon_recipes_grilledcorn"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "corn",
+        "amount": 9
+      },
+      {
+        "key": "sunflower",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_grilled_sandwich": {
+    "ID": "recipe_grilled_sandwich",
+    "image": {
+      "alias": "icon_recipes_grilledsandwich"
+    },
+    "duration": 720,
+    "ingredients": [
+      {
+        "key": "wheat",
+        "amount": 7
+      },
+      {
+        "key": "bacon",
+        "amount": 8
+      },
+      {
+        "key": "egg",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_honey_cereal": {
+    "ID": "recipe_honey_cereal",
+    "image": {
+      "alias": "icon_recipes_honeycereal"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "honey",
+        "amount": 10
+      },
+      {
+        "key": "wheat",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_honey_cookies": {
+    "ID": "recipe_honey_cookies",
+    "image": {
+      "alias": "icon_recipes_honeycookies"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "honey",
+        "amount": 6
+      },
+      {
+        "key": "wheat",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_honey_jar": {
+    "ID": "recipe_honey_jar",
+    "image": {
+      "alias": "icon_recipes_honeyjar"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "honey",
+        "amount": 8
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_honey_waffle": {
+    "ID": "recipe_honey_waffle",
+    "image": {
+      "alias": "icon_recipes_honeywaffle"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "honey",
+        "amount": 12
+      },
+      {
+        "key": "wheat",
+        "amount": 7
+      },
+      {
+        "key": "egg",
+        "amount": 6
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_horse_brush": {
+    "ID": "recipe_horse_brush",
+    "image": {
+      "alias": "icon_recipes_horsebrush"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "horseshoe",
+        "amount": 8
+      },
+      {
+        "key": "wool",
+        "amount": 8
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_icecream": {
+    "ID": "recipe_icecream",
+    "image": {
+      "alias": "icon_recipes_icecreamcone"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "milk",
+        "amount": 5
+      },
+      {
+        "key": "sugarcane",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_jacket": {
+    "ID": "recipe_jacket",
+    "image": {
+      "alias": "icon_recipes_jacket"
+    },
+    "duration": 1200,
+    "ingredients": [
+      {
+        "key": "wool",
+        "amount": 13
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_milk": {
+    "ID": "recipe_milk",
+    "image": {
+      "alias": "icon_recipes_milk"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "milk",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_2"]
+  },
+  "recipe_mini_tomato_burger": {
+    "ID": "recipe_mini_tomato_burger",
+    "image": {
+      "alias": "icon_recipes_tomatoburger"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "tomato",
+        "amount": 12
+      },
+      {
+        "key": "egg",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_muffin": {
+    "ID": "recipe_muffin",
+    "image": {
+      "alias": "icon_recipes_muffin"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "sugarcane",
+        "amount": 12
+      },
+      {
+        "key": "egg",
+        "amount": 9
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_omelet": {
+    "ID": "recipe_omelet",
+    "image": {
+      "alias": "icon_recipes_omelet"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "egg",
+        "amount": 5
+      },
+      {
+        "key": "milk",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_3"]
+  },
+  "recipe_pancakes": {
+    "ID": "recipe_pancakes",
+    "image": {
+      "alias": "icon_recipes_pancakes"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "sugarcane",
+        "amount": 8
+      },
+      {
+        "key": "egg",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_pillow": {
+    "ID": "recipe_pillow",
+    "image": {
+      "alias": "icon_recipes_pillow_deer"
+    },
+    "duration": 1200,
+    "ingredients": [
+      {
+        "key": "fur",
+        "amount": 40
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_poncho": {
+    "ID": "recipe_poncho",
+    "image": {
+      "alias": "icon_recipes_poncho"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "alpacawool",
+        "amount": 10
+      },
+      {
+        "key": "wool",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_popcorn": {
+    "ID": "recipe_popcorn",
+    "image": {
+      "alias": "icon_recipes_popcorn"
+    },
+    "duration": 720,
+    "ingredients": [
+      {
+        "key": "corn",
+        "amount": 11
+      },
+      {
+        "key": "sunflower",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_raw_bacon": {
+    "ID": "recipe_raw_bacon",
+    "image": {
+      "alias": "icon_recipes_rawbacon"
+    },
+    "duration": 180,
+    "ingredients": [
+      {
+        "key": "bacon",
+        "amount": 6
+      }
+    ],
+    "reward": ["coin_3"]
+  },
+  "recipe_riding_helmet": {
+    "ID": "recipe_riding_helmet",
+    "image": {
+      "alias": "icon_recipes_ridinghelmet"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "horseshoe",
+        "amount": 10
+      },
+      {
+        "key": "wool",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_saddle": {
+    "ID": "recipe_saddle",
+    "image": {
+      "alias": "icon_recipes_saddle"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "horseshoe",
+        "amount": 6
+      },
+      {
+        "key": "wool",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_scarf": {
+    "ID": "recipe_scarf",
+    "image": {
+      "alias": "icon_recipes_scarf"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "alpacawool",
+        "amount": 12
+      },
+      {
+        "key": "wool",
+        "amount": 7
+      },
+      {
+        "key": "fur",
+        "amount": 6
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_socks": {
+    "ID": "recipe_socks",
+    "image": {
+      "alias": "icon_recipes_socks"
+    },
+    "duration": 420,
+    "ingredients": [
+      {
+        "key": "wool",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_sombrero": {
+    "ID": "recipe_sombrero",
+    "image": {
+      "alias": "icon_recipes_sombrero"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "alpacawool",
+        "amount": 8
+      },
+      {
+        "key": "wool",
+        "amount": 8
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_soy_beans": {
+    "ID": "recipe_soy_beans",
+    "image": {
+      "alias": "icon_recipes_soybeans"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "soybeans",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_2", "coin_2"]
+  },
+  "recipe_soysauce": {
+    "ID": "recipe_soysauce",
+    "image": {
+      "alias": "icon_recipes_soysauce"
+    },
+    "duration": 180,
+    "ingredients": [
+      {
+        "key": "soybeans",
+        "amount": 6
+      }
+    ],
+    "reward": ["coin_3"]
+  },
+  "recipe_stetson_hat": {
+    "ID": "recipe_stetson_hat",
+    "image": {
+      "alias": "icon_recipes_stetsonhat"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "horseshoe",
+        "amount": 8
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_stuffed_tomatoes": {
+    "ID": "recipe_stuffed_tomatoes",
+    "image": {
+      "alias": "icon_recipes_tomatofilled"
+    },
+    "duration": 480,
+    "ingredients": [
+      {
+        "key": "tomato",
+        "amount": 12
+      },
+      {
+        "key": "milk",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_sugar": {
+    "ID": "recipe_sugar",
+    "image": {
+      "alias": "icon_recipes_sugar"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "sugarcane",
+        "amount": 4
+      }
+    ],
+    "reward": ["coin_2"]
+  },
+  "recipe_sunflower_oil": {
+    "ID": "recipe_sunflower_oil",
+    "image": {
+      "alias": "icon_recipes_sunfloweroil"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "sunflower",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_2", "coin_2"]
+  },
+  "recipe_tiramisu": {
+    "ID": "recipe_tiramisu",
+    "image": {
+      "alias": "icon_recipes_tiramisu"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "coffeebeans",
+        "amount": 20
+      },
+      {
+        "key": "egg",
+        "amount": 7
+      },
+      {
+        "key": "milk",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_tofu": {
+    "ID": "recipe_tofu",
+    "image": {
+      "alias": "icon_recipes_tofu"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "soybeans",
+        "amount": 9
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_tofu_burger": {
+    "ID": "recipe_tofu_burger",
+    "image": {
+      "alias": "icon_recipes_tofuburger"
+    },
+    "duration": 900,
+    "ingredients": [
+      {
+        "key": "soybeans",
+        "amount": 11
+      },
+      {
+        "key": "wheat",
+        "amount": 7
+      },
+      {
+        "key": "carrot",
+        "amount": 7
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_tomato_salad_on_a_stick": {
+    "ID": "recipe_tomato_salad_on_a_stick",
+    "image": {
+      "alias": "icon_recipes_tomatosaladonstick"
+    },
+    "duration": 300,
+    "ingredients": [
+      {
+        "key": "tomato",
+        "amount": 10
+      },
+      {
+        "key": "soybeans",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_3", "coin_3"]
+  },
+  "recipe_tomato_soup": {
+    "ID": "recipe_tomato_soup",
+    "image": {
+      "alias": "icon_recipes_tomatosoup"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "tomato",
+        "amount": 20
+      },
+      {
+        "key": "carrot",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_trousers": {
+    "ID": "recipe_trousers",
+    "image": {
+      "alias": "icon_recipes_trousers"
+    },
+    "duration": 720,
+    "ingredients": [
+      {
+        "key": "wool",
+        "amount": 9
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_truffle_grilled_cheese_sandwich": {
+    "ID": "recipe_truffle_grilled_cheese_sandwich",
+    "image": {
+      "alias": "icon_recipes_trufflegrilledcheesesandw"
+    },
+    "duration": 600,
+    "ingredients": [
+      {
+        "key": "truffle",
+        "amount": 5
+      },
+      {
+        "key": "sunflower",
+        "amount": 5
+      },
+      {
+        "key": "wheat",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_4", "coin_4"]
+  },
+  "recipe_truffleballs": {
+    "ID": "recipe_truffleballs",
+    "image": {
+      "alias": "icon_recipes_truffleballs"
+    },
+    "duration": 420,
+    "ingredients": [
+      {
+        "key": "truffle",
+        "amount": 8
+      },
+      {
+        "key": "sunflower",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_4"]
+  },
+  "recipe_trufflepasta": {
+    "ID": "recipe_trufflepasta",
+    "image": {
+      "alias": "icon_recipes_trufflepastaplate"
+    },
+    "duration": 720,
+    "ingredients": [
+      {
+        "key": "truffle",
+        "amount": 10
+      },
+      {
+        "key": "egg",
+        "amount": 5
+      },
+      {
+        "key": "milk",
+        "amount": 3
+      }
+    ],
+    "reward": ["coin_5"]
+  },
+  "recipe_wool": {
+    "ID": "recipe_wool",
+    "image": {
+      "alias": "icon_recipes_wool"
+    },
+    "duration": 120,
+    "ingredients": [
+      {
+        "key": "wool",
+        "amount": 5
+      }
+    ],
+    "reward": ["coin_2", "coin_2"]
+  }
+}

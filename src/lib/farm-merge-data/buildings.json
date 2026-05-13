@@ -1,0 +1,85 @@
+{
+  "bakery": [
+    "recipe_bread",
+    "recipe_omelet",
+    "recipe_pancakes",
+    "recipe_carrot_bread",
+    "recipe_muffin",
+    "recipe_carrot_cake"
+  ],
+  "barista": [
+    "recipe_coffee_beans",
+    "recipe_espresso",
+    "recipe_cappuccino",
+    "recipe_tiramisu"
+  ],
+  "bbq": [
+    "recipe_grilled_bacon",
+    "recipe_grilled_sandwich",
+    "recipe_grilled_corn",
+    "recipe_tofu_burger"
+  ],
+  "building_apple_delights": [
+    "recipe_apple_cider",
+    "recipe_apple_cinnamon_cookies",
+    "recipe_apple_compote",
+    "recipe_apple_pie",
+    "recipe_candy_apples"
+  ],
+  "building_bee_food_truck": [
+    "recipe_honey_jar",
+    "recipe_honey_cookies",
+    "recipe_honey_cereal",
+    "recipe_honey_waffle",
+    "recipe_bee_wax_candles"
+  ],
+  "building_casa_de_alpaca": [
+    "recipe_chulloh",
+    "recipe_fabrics",
+    "recipe_poncho",
+    "recipe_scarf",
+    "recipe_sombrero"
+  ],
+  "building_pink_pony_club": [
+    "recipe_stetson_hat",
+    "recipe_saddle",
+    "recipe_riding_helmet",
+    "recipe_cowboy_boots",
+    "recipe_horse_brush"
+  ],
+  "dairy": [
+    "recipe_cheese",
+    "recipe_butter",
+    "recipe_goat_cheese",
+    "recipe_goat_yoghurt"
+  ],
+  "loom": [
+    "recipe_socks",
+    "recipe_jacket",
+    "recipe_trousers",
+    "recipe_pillow",
+    "recipe_fur_purse"
+  ],
+  "market": [
+    "recipe_flour",
+    "recipe_eggs",
+    "recipe_sugar",
+    "recipe_sunflower_oil",
+    "recipe_carrots",
+    "recipe_soysauce",
+    "recipe_tofu",
+    "recipe_milk",
+    "recipe_raw_bacon",
+    "recipe_goat_milk",
+    "recipe_wool",
+    "recipe_soy_beans",
+    "recipe_corn"
+  ],
+  "sweets": ["recipe_icecream", "recipe_popcorn", "recipe_cheese_popcorn"],
+  "tomato_on_wheels": [
+    "recipe_tomato_soup",
+    "recipe_mini_tomato_burger",
+    "recipe_stuffed_tomatoes",
+    "recipe_tomato_salad_on_a_stick"
+  ]
+}

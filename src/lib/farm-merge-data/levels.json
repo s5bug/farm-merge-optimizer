@@ -1,0 +1,1635 @@
+{
+  "1": {
+    "items_unlocked": ["wheat_1"],
+    "recipes_unlocked": [
+      "recipe_bread",
+      "recipe_cheese",
+      "recipe_icecream",
+      "recipe_tofu_burger",
+      "recipe_socks",
+      "recipe_tomato_salad_on_a_stick",
+      "recipe_avocado_taco",
+      "recipe_coffee_beans",
+      "recipe_truffleballs",
+      "recipe_apple_cider",
+      "recipe_chulloh",
+      "recipe_stetson_hat",
+      "recipe_honey_jar"
+    ],
+    "exp_to_next_level": 39,
+    "rewards": []
+  },
+  "2": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_flour"],
+    "exp_to_next_level": 24,
+    "rewards": []
+  },
+  "3": {
+    "items_unlocked": ["chicken_1"],
+    "recipes_unlocked": ["recipe_eggs"],
+    "exp_to_next_level": 100,
+    "rewards": []
+  },
+  "4": {
+    "items_unlocked": ["cow_1"],
+    "recipes_unlocked": ["recipe_milk", "recipe_omelet"],
+    "exp_to_next_level": 150,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 20
+      }
+    ]
+  },
+  "5": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_bread"],
+    "exp_to_next_level": 282,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "6": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_cheese"],
+    "exp_to_next_level": 403,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "7": {
+    "items_unlocked": ["sugarcane_1"],
+    "recipes_unlocked": ["recipe_sugar"],
+    "exp_to_next_level": 332,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "8": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_pancakes"],
+    "exp_to_next_level": 839,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "9": {
+    "items_unlocked": ["carrot_1"],
+    "recipes_unlocked": ["recipe_carrots", "recipe_carrot_bread"],
+    "exp_to_next_level": 828,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "10": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_carrot_cake"],
+    "exp_to_next_level": 1255,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "11": {
+    "items_unlocked": ["goat_1"],
+    "recipes_unlocked": ["recipe_goat_milk"],
+    "exp_to_next_level": 1453,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "12": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_goat_cheese"],
+    "exp_to_next_level": 4031,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "13": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_muffin"],
+    "exp_to_next_level": 6615,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "14": {
+    "items_unlocked": ["soybeans_1"],
+    "recipes_unlocked": ["recipe_soysauce"],
+    "exp_to_next_level": 7644,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "15": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_tofu"],
+    "exp_to_next_level": 8359,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "16": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_butter", "recipe_tofu_burger"],
+    "exp_to_next_level": 9929,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "17": {
+    "items_unlocked": ["pig_1"],
+    "recipes_unlocked": ["recipe_raw_bacon"],
+    "exp_to_next_level": 9637,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "18": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_grilled_sandwich"],
+    "exp_to_next_level": 14595,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "19": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 17282,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "20": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 19838,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "21": {
+    "items_unlocked": ["sunflower_1"],
+    "recipes_unlocked": ["recipe_sunflower_oil"],
+    "exp_to_next_level": 20654,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "22": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_grilled_bacon"],
+    "exp_to_next_level": 25737,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "23": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 35715,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "24": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_goat_yoghurt"],
+    "exp_to_next_level": 44236,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "25": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_icecream"],
+    "exp_to_next_level": 51291,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "26": {
+    "items_unlocked": ["corn_1"],
+    "recipes_unlocked": ["recipe_wool", "recipe_popcorn"],
+    "exp_to_next_level": 48126,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "27": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_grilled_corn"],
+    "exp_to_next_level": 57977,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "28": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_cheese_popcorn"],
+    "exp_to_next_level": 62025,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "29": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 69719,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "30": {
+    "items_unlocked": ["sheep_1"],
+    "recipes_unlocked": ["recipe_socks"],
+    "exp_to_next_level": 78393,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "31": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 88480,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "32": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_trousers"],
+    "exp_to_next_level": 81347,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "33": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_jacket"],
+    "exp_to_next_level": 96057,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "34": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 107345,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "35": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 113717,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "36": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_corn", "recipe_coffee_beans"],
+    "exp_to_next_level": 120994,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "37": {
+    "items_unlocked": ["coffee_1"],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 120386,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "38": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_soy_beans"],
+    "exp_to_next_level": 135994,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "39": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_tiramisu"],
+    "exp_to_next_level": 142385,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "40": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_espresso"],
+    "exp_to_next_level": 150091,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "41": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_cappuccino"],
+    "exp_to_next_level": 159088,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "42": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 156771,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "43": {
+    "items_unlocked": ["deer_1"],
+    "recipes_unlocked": ["recipe_pillow"],
+    "exp_to_next_level": 154472,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "44": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 166553,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "45": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_fur_purse"],
+    "exp_to_next_level": 184205,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "46": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_tomato_salad_on_a_stick"],
+    "exp_to_next_level": 327597,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "47": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_tomato_soup"],
+    "exp_to_next_level": 406081,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "48": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_mini_tomato_burger"],
+    "exp_to_next_level": 470387,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "49": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_stuffed_tomatoes"],
+    "exp_to_next_level": 511991,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "50": {
+    "items_unlocked": ["tomato_1"],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 521536,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "51": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_avocado_taco"],
+    "exp_to_next_level": 573572,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "52": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 568467,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "53": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 565677,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "54": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 565474,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "55": {
+    "items_unlocked": ["avocado_1"],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 547337,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "56": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_avocado_on_toast"],
+    "exp_to_next_level": 552210,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "57": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 529165,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "58": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_avocado_wrap"],
+    "exp_to_next_level": 557522,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "59": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_avocado_egg_burger"],
+    "exp_to_next_level": 551195,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "60": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 532880,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "61": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_truffleballs"],
+    "exp_to_next_level": 568710,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "62": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 564852,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "63": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 571130,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "64": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 572564,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "65": {
+    "items_unlocked": ["trufflepig_1"],
+    "recipes_unlocked": ["recipe_truffle_grilled_cheese_sandwich"],
+    "exp_to_next_level": 546623,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "66": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 579788,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "67": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 525203,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "68": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 556402,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "69": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_trufflepasta"],
+    "exp_to_next_level": 554806,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "70": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 541896,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "71": {
+    "items_unlocked": ["apple_1"],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 552147,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "72": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_apple_cider"],
+    "exp_to_next_level": 552950,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "73": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 567438,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "74": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_apple_cinnamon_cookies"],
+    "exp_to_next_level": 541133,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "75": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 520824,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "76": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_apple_compote"],
+    "exp_to_next_level": 589855,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "77": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 572987,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "78": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_apple_pie"],
+    "exp_to_next_level": 578775,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "79": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 566998,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "80": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_candy_apples"],
+    "exp_to_next_level": 572302,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "81": {
+    "items_unlocked": ["alpaca_1"],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 565992,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "82": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_chulloh"],
+    "exp_to_next_level": 540454,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "83": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 566083,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "84": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_fabrics"],
+    "exp_to_next_level": 560733,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "85": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 549335,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "86": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_poncho"],
+    "exp_to_next_level": 590008,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "87": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 584511,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "88": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_scarf"],
+    "exp_to_next_level": 587057,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "89": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 577041,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "90": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_sombrero"],
+    "exp_to_next_level": 577442,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "91": {
+    "items_unlocked": ["horse_1"],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 581359,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "92": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_stetson_hat"],
+    "exp_to_next_level": 547001,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "93": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 563056,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "94": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_saddle"],
+    "exp_to_next_level": 567180,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "95": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 541301,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "96": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_riding_helmet"],
+    "exp_to_next_level": 580011,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "97": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 578182,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "98": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_cowboy_boots"],
+    "exp_to_next_level": 585027,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "99": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 560469,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "100": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_horse_brush"],
+    "exp_to_next_level": 567323,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "101": {
+    "items_unlocked": ["bee_1"],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 577494,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "102": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_honey_jar"],
+    "exp_to_next_level": 548912,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "103": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 562240,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "104": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_honey_cookies"],
+    "exp_to_next_level": 591705,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "105": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 581195,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "106": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_honey_cereal"],
+    "exp_to_next_level": 627084,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "107": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 613888,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "108": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_honey_waffle"],
+    "exp_to_next_level": 616936,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "109": {
+    "items_unlocked": [],
+    "recipes_unlocked": [],
+    "exp_to_next_level": 620177,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  },
+  "110": {
+    "items_unlocked": [],
+    "recipes_unlocked": ["recipe_bee_wax_candles"],
+    "exp_to_next_level": 620976,
+    "rewards": [
+      {
+        "key": "crates",
+        "amount": 10
+      },
+      {
+        "key": "energy",
+        "amount": 10
+      }
+    ]
+  }
+}
