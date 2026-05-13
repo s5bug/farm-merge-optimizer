@@ -1,4 +1,5 @@
 <script lang="ts">
+import { untrack } from 'svelte'
 import type { Building } from '../lib/farm-merge-data.ts'
 
 interface Props {
@@ -13,12 +14,18 @@ let keys = $derived(
 )
 
 // disable keys that are below the level requirement
-$effect(() => {
-  for (const building of data.buildings) {
-    if (data.buildingLevels[building] > level) {
-      enabledBuildings[building] = false
+$effect.pre(() => {
+  const localLevel = level
+  untrack(() => {
+    for (const building of data.buildings) {
+      if (
+        data.buildingLevels[building] > localLevel &&
+        enabledBuildings[building]
+      ) {
+        enabledBuildings[building] = false
+      }
     }
-  }
+  })
 })
 </script>
 

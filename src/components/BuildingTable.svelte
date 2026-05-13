@@ -16,9 +16,12 @@ let {
   buildingValues,
 }: Props = $props()
 
-let buildingList = $derived(
-  data.buildings.filter((building) => enabledBuildings[building]),
-)
+let buildingList = $derived.by(() => {
+  const localEnabledBuildings = enabledBuildings
+  return data.buildings.filter(
+    (building) => localEnabledBuildings[building] === true,
+  )
+})
 
 let selectedRecipeForBuilding: Partial<Record<string, Recipe>> = $state({})
 let buildingRecipesByValue: Record<string, Recipe[]> = $derived.by(() => {
