@@ -20,14 +20,16 @@ const recipeRewardHelper = (rewards: string[]): number => {
   return rewards.reduce((sum, reward) => sum + data.coinValues[reward], 0)
 }
 
-let availableRecipes = $derived(
-  data.recipes.filter((recipe) => {
-    const unlockedByLevel = data.recipeLevels[recipe] <= level
+let availableRecipes = $derived.by(() => {
+  const localLevel = level
+  const localEnabledBuildings = enabledBuildings
+  return data.recipes.filter((recipe) => {
+    const unlockedByLevel = data.recipeLevels[recipe] <= localLevel
     const unlockedByBuilding =
-      enabledBuildings[data.recipeBuildings[recipe]] ?? false
+      localEnabledBuildings[data.recipeBuildings[recipe]] ?? false
     return unlockedByLevel && unlockedByBuilding
   })
-)
+})
 
 let availableRecipeRewards = $derived.by(() => {
   const result: Record<string, number> = {}
