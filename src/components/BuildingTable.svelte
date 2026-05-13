@@ -74,8 +74,11 @@ let markBuildings: Record<string, boolean> = $derived.by(() => {
       }
     }
     result[building] = mark
-    for (const ingredient of data.buildingIngredients[building as Building]) {
-      ingredientsUsed.add(ingredient)
+    for (const recipe of buildingRecipesByValue[building as Building]) {
+      const recipeData = data.recipeDescriptions[recipe]
+      for (const ingredient of Object.keys(recipeData.ingredients)) {
+        ingredientsUsed.add(ingredient)
+      }
     }
   }
   return result
