@@ -12,9 +12,43 @@
   <title>Farm Merge Valley Craft Optimizer</title>
 </head>
 <body>
-<nav><a href="/">Back</a></nav>
-<main>
+<nav><a href="..">Back</a></nav>
+<main style="max-width: 600px;">
   <h1>About</h1>
+
+  <p>
+    This tool helps you figure out which of your available recipes is optimal to craft for the most coin value.
+    Supply your farm rank, check which buildings youʼve repaired/unlocked, insert the recipes that each building asks for, and the recipes that are worth crafting will be shown in green with the order in which theyʼre worth crafting.
+  </p>
+
+  <p>
+    This tool assumes that you will <i>never</i> collect coins except for the maximum unmergeable coin value (3⁹ = 19683).
+    If you intend to collect any lesser coins (which may be optimal to have more merge space, due to the large XP that merging coins gives) the numbers wonʼt be perfect.
+  </p>
+
+  <h2>Why</h2>
+
+  <p>
+    Coin merging allows you to take 5 coins of some value and turn them into 2 coins of 3x that value.
+    This means no matter how recipes are balanced, there will always be some non-integer (1.2ⁿ) part involved in balancing rewards.
+    It turns out that a lot of recipes are a lot worse than this in value.
+  </p>
+
+  <p>
+    Because youʼre gated by resource gathering time more than youʼre gated by recipe crafting time, it makes sense to optimize the recipes crafted at the expense of not doing as many parallel crafts.
+  </p>
+
+  <h2>How</h2>
+
+  <p>
+    <a href="https://github.com/JWally/jsLPSolver">jsLPSolver</a> is used to solve for ingredient costs, then the “profit” of each recipe is calculated.
+    From this, the expected value of random roll of a buildingʼs recipe can be calculated as an average of the recipes that building has available.
+    The best recipe is the one with the highest combined (recipe + building) value.
+  </p>
+
+  <p>
+    You may notice that the profit is usually negative: a value of 0 means the recipe is optimal for its given ingredients, and anything less means there is a more optimal recipe.
+  </p>
 </main>
 </body>
 </html>
