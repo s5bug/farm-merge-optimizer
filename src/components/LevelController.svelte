@@ -17,8 +17,8 @@ function decrementLevel() {
 <div class="level-controller">
   <label for="level-input">Level:</label>
   <input id="level-input" type="number" min="{minLevel}" max="{maxLevel}" bind:value={level} />
-  <button id="level-increment" onclick={incrementLevel}>+</button>
-  <button id="level-decrement" onclick={decrementLevel}>-</button>
+  <button id="level-increment" type="button" onclick={incrementLevel}>+</button>
+  <button id="level-decrement" type="button" onclick={decrementLevel}>-</button>
 
   <input id="level-range" type="range" min="{minLevel}" max="{maxLevel}" bind:value={level} />
 </div>
