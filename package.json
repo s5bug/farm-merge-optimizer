@@ -18,7 +18,7 @@
     "astro": "^6.3.8",
     "javascript-lp-solver": "^1.0.3",
     "svelte": "^5.56.4",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.15",
