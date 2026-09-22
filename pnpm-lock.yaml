@@ -36,8 +36,8 @@ importers:
 
 packages:
 
-  '@astrojs/astro2tsx@0.1.0':
-    resolution: {integrity: sha512-tgprkax8mcF+BiHJQBdoQ+REqtvvnLlYzV0yCeLMdcv3pJIutdlinWNHUzN1jMOT5VRlYTtMmDdaoPrtd3cBAQ==}
+  '@astrojs/astro2tsx@0.1.1':
+    resolution: {integrity: sha512-VNhvoKzs0FXF3iq+2QVIjTqA6awKDKpd2U7khYg3AhcxjM1KMINEma4IeqQnMqJUakw0MNQygntLvLmSPS5pLA==}
     engines: {node: ^20.19.0 || >=22.12.0}
 
   '@astrojs/check@0.9.10':
@@ -1880,8 +1880,8 @@ packages:
     resolution: {integrity: sha512-rwu/ClNdSMpkSrUb+d6BRsSkLUq1fmfsY6TOpYzTwvwkg1/NRG85KBy3kq++A8LKQwX6lsu+aWad+2khvuXrqw==}
     engines: {node: ^20.19.0 || ^22.12.0 || >=23}
 
-  yargs@18.1.0:
-    resolution: {integrity: sha512-2rAgRKu54VsHkqI0/tYkmluGXHD4KW7yZoycuqDQ15QOTnc2VVfy0nN/1eMhnQLO00A+dwtK20xuCnc1YGeUyg==}
+  yargs@18.2.0:
+    resolution: {integrity: sha512-9OpKOLeaoNFecEp7P6iYbzze/5CqWoH7N3SMs/6y1XF4nMvFMspEGZzJ6uFi9MmQwXhyzqYoSEKO3tvA3Z/o2w==}
     engines: {node: ^20.19.0 || ^22.12.0 || >=23}
 
   yocto-queue@1.2.2:
@@ -1899,7 +1899,7 @@ packages:
 
 snapshots:
 
-  '@astrojs/astro2tsx@0.1.0(@emnapi/runtime@1.11.3)':
+  '@astrojs/astro2tsx@0.1.1(@emnapi/runtime@1.11.3)':
     dependencies:
       '@emnapi/core': 1.11.3
       '@napi-rs/wasm-runtime': 1.2.4(@emnapi/core@1.11.3)(@emnapi/runtime@1.11.3)
@@ -1912,7 +1912,7 @@ snapshots:
       chokidar: 4.0.3
       kleur: 4.1.5
       typescript: 6.0.3
-      yargs: 18.1.0
+      yargs: 18.2.0
     transitivePeerDependencies:
       - '@emnapi/runtime'
       - prettier
@@ -1989,7 +1989,7 @@ snapshots:
 
   '@astrojs/language-server@2.17.0(@emnapi/runtime@1.11.3)(prettier@3.9.8)(typescript@6.0.3)':
     dependencies:
-      '@astrojs/astro2tsx': 0.1.0(@emnapi/runtime@1.11.3)
+      '@astrojs/astro2tsx': 0.1.1(@emnapi/runtime@1.11.3)
       '@astrojs/yaml2ts': 0.2.4
       '@volar/kit': 2.4.28(typescript@6.0.3)
       '@volar/language-core': 2.4.28
@@ -3615,7 +3615,7 @@ snapshots:
 
   yargs-parser@22.0.0: {}
 
-  yargs@18.1.0:
+  yargs@18.2.0:
     dependencies:
       cliui: 9.0.1
       escalade: 3.2.0
