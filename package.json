@@ -15,13 +15,13 @@
   "dependencies": {
     "@astrojs/check": "^0.9.10",
     "@astrojs/svelte": "^9.0.1",
-    "astro": "^7.3.6",
+    "astro": "^7.3.8",
     "javascript-lp-solver": "^1.0.3",
     "svelte": "^5.57.2",
     "typescript": "^6.0.3"
   },
   "devDependencies": {
     "@biomejs/biome": "2.5.15",
-    "@types/node": "^26.6.4"
+    "@types/node": "^26.6.5"
   }
 }
