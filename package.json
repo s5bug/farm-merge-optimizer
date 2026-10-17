@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",
-    "@astrojs/svelte": "^9.0.1",
-    "astro": "^7.3.8",
+    "@astrojs/svelte": "^9.1.0",
+    "astro": "^7.4.0",
     "javascript-lp-solver": "^1.0.3",
     "svelte": "^5.57.2",
     "typescript": "^6.0.3"
