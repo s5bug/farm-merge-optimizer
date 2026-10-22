@@ -13,7 +13,7 @@
     "fmt": "biome check --write"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.10",
+    "@astrojs/check": "^0.9.11",
     "@astrojs/svelte": "^9.1.0",
     "astro": "^7.4.0",
     "javascript-lp-solver": "^1.0.3",
