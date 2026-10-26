@@ -7,7 +7,7 @@
 ```js
 let result = {}
 globalThis.game.buildings._buildingConfigs.forEach((v, k) => {
-    if(v.nameKey === k && v.isWorkshop) result[k] = v.availableRecipes;
+  if (v.nameKey === k && v.isWorkshop) result[k] = v.availableRecipes
 })
 ```
 
